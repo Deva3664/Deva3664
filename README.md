@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devansh Singh</h1>
 <h3 align="center">ML Engineer | Web Developer | DSA Enthusiast | Building, Learning & Solving Problems 🚀</h3>
 
-- 🔭 I’m currently working on **Prediction Model**
+- 🔭 I’m currently working in **Machine Learning**
 
-- 🌱 I’m currently learning **Pandas , NumPy , Scikit-Learn , Machine learning Algorithms**
+- 🌱 I’m currently learning **Pandas , NumPy , Scikit-Learn and different Machine learning Algorithms**
 
 - 📫 How to reach me **devasingh6805@gmail.com**
 
